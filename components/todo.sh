@@ -2,7 +2,7 @@
 
 source components/common.sh
 
-DOMAIN="shivazs.ml"
+DOMAIN="shivazs."
 
 OS_PREREQ
 
