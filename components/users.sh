@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source components/common.sh
+source components/common.s
 
 OS_PREREQ
 
